@@ -1,0 +1,9 @@
+[[oneAPI_Level_Zero_Loader]]
+arch = "x86_64"
+git-tree-sha1 = "5b8b51d278e6d5d4ae9dc7b766efc4fd9c55afbe"
+libc = "glibc"
+os = "linux"
+
+    [[oneAPI_Level_Zero_Loader.download]]
+    sha256 = "90a9a39bffdaf431b3b7c5018769a83f6efdb3d3438eb060254357d99a0fec99"
+    url = "https://github.com/michel2323/oneAPI_Level_Zero_Loader_jll.jl/releases/download/oneAPI_Level_Zero_Loader-v1.8.8+0/oneAPI_Level_Zero_Loader.v1.8.8.x86_64-linux-gnu.tar.gz"
